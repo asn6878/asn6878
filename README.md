@@ -1,7 +1,7 @@
 ###  "It's nice to meet you 😄 I'm SEONGYOON AHN" 
 #### Department of Computer Engineering at Yeungnam University 
 
-Developers who type keyboards like dinosaurs.<br/>왜 DinoDeveloper고 키보드를 공룡처럼 치냐고요? 공룡은 멋있거든요 어흥🦁
+Developers who type keyboards like dinosaurs.<br/>
 
 ![asn6878's GitHub stats](https://github-readme-stats.vercel.app/api?username=asn6878&show_icons=true&theme=radical)
 
