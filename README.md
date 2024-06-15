@@ -66,6 +66,7 @@ Developers who type keyboards like dinosaurs. 🦖<br/><br/>
 
 
 ![asn6878's GitHub stats](https://github-readme-stats.vercel.app/api?username=asn6878&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asn6878&layout=compact&langs_count=8&theme=radical)](https://github.com/asn6878?tab=repositories&q=&type=&language=java&sort=)
 
 <!--
 **asn6878/asn6878** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
