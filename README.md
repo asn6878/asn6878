@@ -16,7 +16,6 @@ Developers who type keyboards like dinosaurs. 🦖<br/><br/>
     <a href="https://reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" height = "25"/></a>
     <a href="https://reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/Java-FF7800?style=flat-square&logo=java&logoColor=white" height = "25"/></a>
     <a href="https://reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" height = "25"/></a>
-    <a href="https://reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=Cplusplus&logoColor=white" height = "25"/></a>
   </div>
     
 </td><td valign="top" width="25%">
