@@ -1,7 +1,7 @@
 ##  😆 "It's nice to meet you! I'm SEONGYOON AHN" 
 #### Department of Computer Engineering at Yeungnam University 
 
-Developers who type keyboards like dinosaurs. 🦖<br/><br/>
+Developers who want to contribute to useful applications. 🏃<br/><br/>
 
 ## 🛠 Tech I've used...
 
@@ -59,9 +59,10 @@ Developers who type keyboards like dinosaurs. 🦖<br/><br/>
 <br/>
 
 ## 🎖 Activities
-- 2023 대구광역시 공공데이터 활용 창업 경진대회 (최우수상 - 대구시장상)
-- 멋쟁이사자처럼 대학(LIKELION.UNIV) 영남대 11th BE 아기사자
-- 멋쟁이사자처럼 대학(LIKELION.UNIV) 영남대 12th BE 운영진
+- 2023 대구광역시 공공데이터 활용 창업 경진대회 (최우수상 - 대구시장상) _(2023.03 ~ 2023.08)_
+- 멋쟁이사자처럼 대학(LIKELION.UNIV) 영남대 11th BE 아기사자 _(2023.03 ~ 2023.12)_
+- 멋쟁이사자처럼 대학(LIKELION.UNIV) 영남대 12th BE 운영진 _(2024.03 ~ 2024.12)_
+- 네이버 커넥트 부스트캠프 웹・모바일 9기 수료 _(2024.06 ~ 2024.12)_
 
 
 ![asn6878's GitHub stats](https://github-readme-stats.vercel.app/api?username=asn6878&show_icons=true&theme=radical)
