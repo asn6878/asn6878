@@ -1,7 +1,5 @@
-##  😆 "It's nice to meet you! I'm SEONGYOON AHN" 
-#### Department of Computer Engineering at Yeungnam University 
-
-A developer who wants to contribute to useful applications. 🏃<br/><br/>
+##  😆 "It's nice to meet you! I'm Jayce AHN" 
+A developer who loves creating value for the world.. 🏃<br/><br/>
 
 ## 🛠 Tech I've used...
 
