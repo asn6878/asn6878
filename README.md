@@ -1,5 +1,5 @@
 ##  😆 "It's nice to meet you! I'm Jayce AHN" 
-Interested in in creating and operating valuable services.<br/><br/>
+Bridging technology and user value to build seamless, sustainable services.<br/><br/>
 
 ## 🛠 Tech I've used...
 
