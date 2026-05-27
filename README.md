@@ -1,7 +1,11 @@
-##  😆 "It's nice to meet you! I'm Jayce AHN" 
-Bridging technology and user value to build seamless, sustainable services.<br/><br/>
+##  "It's nice to meet you! I'm Jayce AHN" 
+```shell
+while (alive) { eat(); sleep(); build(); regret(); } // every year
+git commit -m "26th fix"
+```
+<br/><br/>
 
-## 🛠 Tech I've used...
+## 🛠 Usually works on
 
 <table>
   <tr>
@@ -61,6 +65,7 @@ Bridging technology and user value to build seamless, sustainable services.<br/>
 </tr></table>
 <br/>
 
+<!--
 ## 🎖 Activities
 - 멋쟁이사자처럼 대학(LIKELION.UNIV) 영남대 11th~12th
 - 네이버 커넥트 부스트캠프 웹・모바일 9기
@@ -69,7 +74,7 @@ Bridging technology and user value to build seamless, sustainable services.<br/>
 ![asn6878's GitHub stats](https://github-readme-stats.vercel.app/api?username=asn6878&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asn6878&layout=compact&langs_count=8&theme=radical)](https://github.com/asn6878?tab=repositories&q=&type=&language=java&sort=)
 
-<!--
+
 **asn6878/asn6878** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
